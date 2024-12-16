@@ -4,7 +4,7 @@ import os from 'os';
 import fs from 'fs';
 
 // Ganti 'YOUR_TOKEN' dengan token bot Anda
-const bot = new Telegraf('7995909030:AAGGscAMHy-roAu0-eZk87Tz2s1O_jVXEtM');
+const bot = new Telegraf('isi di sini');
 
 // Nama file untuk menyimpan ID pengguna
 const userFile = 'userid.json';
