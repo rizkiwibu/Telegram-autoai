@@ -23,7 +23,7 @@ totalusers - Menampilkan total pengguna yang terdaftar.
 
 untuk mencoba bot nya bisa cek di http://t.me/ikyopenai_bot
 
-ini menggunakan rest api free + unlimitid jadi tinggal pake saja
+ini menggunakan rest api free + unlimited jadi tinggal pake saja
 
 ## Instruksi Instalasi
 
