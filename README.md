@@ -31,8 +31,8 @@ Untuk mengatur bot, ikuti langkah-langkah berikut:
 
 1. **Clone Repository** (jika berlaku):
    ```bash
-   git clone https://github.com/rizkiwibu/hentai-telegrambot
-   cd hentai-telegrambot
+   git clone https://github.com/rizkiwibu/Telegram-autoai
+   cd 'Telegram-autoai'
    npm install
    npm start
 
