@@ -1,0 +1,17 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "A simple Telegram bot using Telegraf and node-fetch",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.0.0",
+    "os": "^0.1.2",
+    "telegraf": "^4.16.3"
+  },
+  "author": "Rizki Irfan",
+  "license": "MIT"
+}
